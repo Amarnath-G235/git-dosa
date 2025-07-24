@@ -5,7 +5,6 @@
 * Oil
 
 # Egg Dosa
-<<<<<<< HEAD
 * 1 egg
 * Oil 
 * Karam
