@@ -6,6 +6,8 @@
 
 # Egg Dosa
 
+* 1 Egg
+* Oil
+* Karam
 * Dosa Flour
-* 2 eggs
-* karam
+
