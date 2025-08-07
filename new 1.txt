@@ -1,8 +1,0 @@
-FEATURE BARNCH MODEL: 
-
-In our development workflow, we use the feature branching model where each new feature is developed by an individual in its own isolated branch created from the main branch. This approach allows parallel and independent development without affecting the stable main codebase. As part of our CI/CD process, every feature branch triggers automated scans and tests early in the development cycle—embracing a shift-left strategy to detect issues sooner.
-
-When a feature is ready, a pull request is created targeting the main branch, initiating code review and integration checks. Once merged, the feature is deployed progressively through multiple environments—Development, QA, UAT, and Pre-Production—before finally releasing to production. Each deployment is tracked through a formal change release process, which includes raising a ticket.
-
-This release ticket captures essential details such as date, time, approvals, change type, and the impacted application. In case of failure, we have an established rollback process. After deployment, test reports, scan results, and sanity tests are documented. Deployment triggers are scheduled precisely according to the change ticket, ensuring controlled and auditable releases.
-
