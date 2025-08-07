@@ -14,6 +14,7 @@
 # Special Dosa
 
 * Dosa batter
-* Bombai chutney
 * Podi
+* Karam
 * Oil
+* Bombai chutney
